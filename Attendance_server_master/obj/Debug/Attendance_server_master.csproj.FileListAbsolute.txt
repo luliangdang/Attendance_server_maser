@@ -1,0 +1,10 @@
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\bin\Debug\Attendance_server_master.exe.config
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\bin\Debug\Attendance_server_master.exe
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\bin\Debug\Attendance_server_master.pdb
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.csprojAssemblyReference.cache
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.Properties.Resources.resources
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.csproj.GenerateResource.cache
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.csproj.CoreCompileInputs.cache
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.exe
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.pdb
+F:\文档\研究生项目\无线门禁系统\Attendance_server_master\Attendance_server_master\obj\Debug\Attendance_server_master.log.resources
